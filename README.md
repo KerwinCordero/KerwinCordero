@@ -1,25 +1,23 @@
 <h1 align="center">Hola 👋 soy Kerwin Cordero / CordDev ✨ </h1>
-<hr style="border: none; border-top: 2px solid #053266; width: 50%; margin: 20px auto;">
 
 <h2>Sobre mi 😃</h2>
 <p align="left">
     Estudiante de Ingeniería en Sistemas Computacionales | Full Stack Developer en formación | Desarrollo de software y
     web | Python, HTML, CSS | MySQL básico | Git y GitHub | Control de versiones | Proyectos en GitHub
-    <!--Intro end-->
 </p>
+
 <p>
 <h2>Contactame en:</h2>
 </p>
+
 <p align="left">
     <a href="https://www.youtube.com/@CordDev" target="blank"><img align="center"
             src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
             alt="@unsimpledev" /></a>
-    <a href="https://www.linkedin.com/in/kerwinmc/" target="_blank" rel="noopener noreferrer">
-        <img align="center"
+    <a href="https://www.linkedin.com/in/kerwinmc/" target="_blank" rel="noopener noreferrer"><img align="center"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Perfil de LinkedIn de Kerwin Cordero" /></a>
-    <a href="https://www.instagram.com/corddevs/" target="_blank" rel="noopener noreferrer">
-        <img align="center"
+    <a href="https://www.instagram.com/corddevs/" target="_blank" rel="noopener noreferrer"><img align="center"
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
             alt="Instagram" /></a>
     <a href="mailto:kerwinmichael24@gmail.com" target="blank"><img align="center"
