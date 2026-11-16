@@ -1,4 +1,9 @@
+<h1 align="center">Hola 👋  soy Kerwin Cordero / CordDevs ✨ </h1> 
 
+<p align="left">
+  <a href="www.youtube.com/@CordDev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@corddev"  /></a>
+  </p>
+<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kerwinmc) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCXu0UaCXz9k4k0LcLVbSxaQ) 
 
