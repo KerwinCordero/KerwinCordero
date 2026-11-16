@@ -18,7 +18,7 @@ Estudiante de Ingeniería en Sistemas Computacionales | Full Stack Developer en 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
+
 <p align="center">
   <!--- stats (start) -->
 <table align="left">
@@ -32,7 +32,7 @@ Estudiante de Ingeniería en Sistemas Computacionales | Full Stack Developer en 
 
 <td width="40%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://komarev.com/ghpvc/?username=KerwinCordero&icon=0&color=2)](https://visitcount.itsvg.in&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
   </td>
 </tr>
